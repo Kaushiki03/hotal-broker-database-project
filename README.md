@@ -27,7 +27,7 @@ This is a database course final project, so obviously the database design is the
 
 ## Web Application Implementation
 
-We list below our core choices to build the web-based application:
+Here is the  list below of core choices to build the web-based application:
 - Used **Node.js** as an application server. [Fast, Scalable, and reliable]
 - Used **MySQL** as a SQL database server. [SQL Choice was obvious since one of the project goals was to practice relational models]
 - Used **Ejs** as a templating engine for the frontend. [Easier choice when it comes to frontend since this was not a main learning goal]
