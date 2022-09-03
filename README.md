@@ -7,7 +7,7 @@ A Hotel reservation system is one that allows for users to reserve rooms on hote
 Our system may be used by multiple brokers, multiple hotel owners and multiple users. 
 During planning phase, we assumed that a Broker can own a hotel or reserve a hotel as well as the owner may book a hotel room (maybe he owns a hotel in Paris, but fancies a vacation in London). 
 
-We have built the ER-Diagram by breaking everything down to its core meaning in the physical world and doing our best to fit it with its useful data in our miniworld.  The ER/Relational and normalization figures were created via [google’s tool draw.io](https://www.draw.io/).
+I have built the ER-Diagram by breaking everything down to its core meaning in the physical world and doing our best to fit it with its useful data in our miniworld.  The ER/Relational and normalization figures were created via [google’s tool draw.io](https://www.draw.io/).
 
 ---
 
